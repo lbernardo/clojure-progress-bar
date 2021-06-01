@@ -12,7 +12,7 @@ Add to project.clj
 
 ````clojure
 (ns example.core
-  (:require [progress-bar.core :as pb]))
+  (:require [org.clojars.lbernardo.progress-bar :as pb]))
 
 (loop [bar (pb/progress-bar 100)]
    (if (pb/is-done? bar)
