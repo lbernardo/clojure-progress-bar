@@ -1,6 +1,6 @@
 # progress-bar
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure library to progress bar 
 
 ## Install
 Add to project.clj
