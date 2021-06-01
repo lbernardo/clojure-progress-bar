@@ -3,8 +3,9 @@
 A Clojure library designed to ... well, that part is up to you.
 
 ## Install
-FIX
+Add to project.clj
 ```
+:dependencies [[org.clojars.lbernardo "0.1.0-SNAPSHOT"]]
 ```
 
 ## Usage
