@@ -5,7 +5,7 @@ A Clojure library designed to ... well, that part is up to you.
 ## Install
 Add to project.clj
 ```
-:dependencies [[org.clojars.lbernardo "0.1.0-SNAPSHOT"]]
+:dependencies [[org.clojars.lbernardo "1.0.0-SNAPSHOT"]]
 ```
 
 ## Usage
